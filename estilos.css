@@ -1,0 +1,21 @@
+body{
+	background-color: #4ffff2
+}
+h1{
+	text-align: center;
+}
+p,code,s,del,abbr{
+	font-size: 99px;
+}
+em{
+	color: #1839C8;
+	font-size: 78px;
+}
+.cur1{
+	/* propiedad de fondo */
+	background-color: #36CE56;
+	font-size: 98px;
+}
+p em{
+	color: #23FF06
+}
