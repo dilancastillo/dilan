@@ -1,0 +1,49 @@
+h1{
+	text-align: center;
+	font-size: 72px;
+}
+p{
+	font-size: 2.125em;
+	/*tipo de fuente*/
+	font-family: Georgia,Serif;
+	font-weight: 900;
+	font-style: oblique;
+	font-variant: small-caps;
+	line-height: 200%;
+
+
+}
+.par1{
+	border: red thin solid;
+}
+.par2{
+	border: green medium solid;
+}
+.par3{
+	border: red thick solid;
+}
+.par4{
+	border: red 20px double;
+}
+.par5{
+	border: red 20px dotted;
+}
+.par6{
+	border: red 20px dashed;
+}
+.par7{
+	border: red 20px groove;
+}
+.par8{
+	border: red 20px ridge;
+}
+.par9{
+	border: red 20px inset;
+}
+.par10{
+	border: red 20px outset;
+}
+
+em{
+	font-weight: bold;
+}
